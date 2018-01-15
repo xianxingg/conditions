@@ -1,0 +1,16 @@
+{
+  "name": "cond",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xian Xing <xianxing@cloudbeaver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "preconditions": "^2.2.0"
+  },
+  "devDependencies": {
+    "jest": "^22.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
